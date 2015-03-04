@@ -52,7 +52,7 @@ input {
 }
 
 button {
-    background-color: lightgray;
+    background-color: #c4a8ce;
     border: 1px solid dimgrey;
     border-radius: 0 .5em .5em 0;
     font: sans-serif;
